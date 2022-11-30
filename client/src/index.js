@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom';
 //import 'bootstrap/dist/css/bootstrap.min.css';
 import { Provider } from 'react-redux';
 import store from './store/index';
-// test commit
+// test commit 1
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
