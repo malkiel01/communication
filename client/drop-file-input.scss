@@ -1,0 +1,68 @@
+// @use "react-widgets/styles.scss" with (
+//   $components: (
+//     'Listbox',
+//     'DropdownList',
+//     'Combobox',
+//     'Multiselect',
+//     // 'DatePicker',
+//     // 'Calendar',
+//     // 'TimeInput',
+//     'NumberPicker'
+//   )
+// );
+
+// @mixin Listbox() {
+
+//   .rw-dropdown-list-input {
+//     border-radius: 250px;
+//     // padding: 25px;
+//     // margin: 15px;
+//   }
+//   .rw-widget-container {
+//     border-radius: 250px !important;
+//   }
+//   .rw-slide-transition {
+//     border-radius: 25px !important;
+
+//   }
+//   .rw-list-option {
+//     // border-radius: 250px;
+//     // padding: 25px;
+//     // margin: 15px;
+//   }
+
+//   // .rw-dropdownlist-search {
+//   //   @include mixins.btn-input-reset;
+//   //   @include mixins.input-base;
+//   }
+
+//   // .rw-dropdown-list-value {
+//   //   padding: 100px !important;
+//   // }
+
+//   .rw-dropdown-list-input {
+//     // border-radius: 250px !important;
+
+//   }
+//   //   padding: 100px !important;
+//   //   align-self: center;
+//   //   display: grid;
+//   //   min-width: 1000px !important;
+//   //   grid-template: 1fr / 1fr;
+
+//   //   & > * {
+//   //     grid-area: 1/1;
+//   //     text-overflow: ellipsis;
+//   //     white-space: nowrap;
+//   //     overflow: hidden;
+//   //   }
+
+//   //   [dir='rtl'] & {
+//   //     padding-right: $input-padding-x;
+//   //     padding-left: 0;
+//   //     padding: 100px !important;
+//   //   }
+//   // }
+//   * {
+//     border: red solid 3px !important;
+//   }
